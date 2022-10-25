@@ -150,10 +150,6 @@ def pregunta_04():
     Evalue el modelo obtenido.
     """
 
-    """
-    Evalue el modelo obtenido.
-    """
-
     # Importe confusion_matrix
     from sklearn.metrics import confusion_matrix
 
